@@ -1,0 +1,10 @@
+.description_wrapper {
+  margin: 0 50px;
+  display: flex;
+  flex-direction: column;
+  width: 615px;
+  height: 500px;
+  gap: 50px;
+  justify-content: center;
+  gap: 50px;
+}

@@ -1,0 +1,8 @@
+.services_wrapper {
+  padding-left: 100px;
+  height: 604px;
+  background-color: #62d0df;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

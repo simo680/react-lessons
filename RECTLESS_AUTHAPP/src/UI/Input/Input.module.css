@@ -1,0 +1,16 @@
+.inp_elem{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 7px 16px;
+
+    width: 360px;
+    height: 50px;
+
+    background-color: #FFFFFF;
+    border: 1px solid rgb(186, 186, 186);
+    box-sizing: border-box;
+
+    border-radius: 12px;
+    margin: 8px 0px;
+}
